@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550592031133",
+    "firebase_url": "https://blood-bank-project-d5e04-default-rtdb.firebaseio.com",
+    "project_id": "blood-bank-project-d5e04",
+    "storage_bucket": "blood-bank-project-d5e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550592031133:android:754c3b02f0f76eadf3a774",
+        "android_client_info": {
+          "package_name": "com.vinayak09.bloodbankbyvinayak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550592031133-5j9chaa5dkvulcd5q2jpmhl52csg5ijg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinayak09.bloodbankbyvinayak",
+            "certificate_hash": "6914a3ed8e2d1d3ccfbdb9d803654df9aaf0f186"
+          }
+        },
+        {
+          "client_id": "550592031133-ptv4h90bftkcgmmribgt03srr6nupk6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbPYndgJPEkyjEt-mbaT1N4NsuaTHPQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550592031133-ptv4h90bftkcgmmribgt03srr6nupk6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
